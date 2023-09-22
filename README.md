@@ -1,70 +1,38 @@
-# Getting Started with Create React App
+# Documentação do Projeto Pokémon API
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Esta documentação descreve o projeto Pokémon API, um aplicativo web simples que permite aos usuários pesquisar informações sobre Pokémon usando a PokeAPI. Ele é construído com React e utiliza recursos de desenvolvimento web para criar uma experiência de usuário interativa.
 
-## Available Scripts
+## Tecnologias Utilizadas
 
-In the project directory, you can run:
+O projeto Pokémon API utiliza as seguintes tecnologias:
 
-### `npm start`
+- **React**: Uma biblioteca JavaScript popular para construção de interfaces de usuário interativas.
+- **HTML e CSS**: Linguagens padrão da web para estruturação e estilização de páginas.
+- **PokeAPI**: Uma API pública que fornece informações sobre Pokémon.
+- **JavaScript**: A linguagem de programação usada para criar a lógica do aplicativo.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## API
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+O aplicativo desenvolvido utiliza a [PokeAPI](https://pokeapi.co/), uma API pública que fornece características sobre Pokémons. 
 
-### `npm test`
+## Funcionalidades
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+O aplicativo Pokémon API possui as seguintes funcionalidades:
 
-### `npm run build`
+- Pesquisa de Pokémon por nome.
+- Exibição da imagem do Pokémon pesquisado.
+- Exibição das informações do Pokémon pesquisado, incluindo nome, número, peso, altura e experiência base.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## Instruções de Uso
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+Para usar o aplicativo Pokémon API, siga estas etapas:
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+1. Abra o aplicativo no seu navegador da web.
+2. Digite o nome de um Pokémon na caixa de pesquisa(não importa se caixa alta ou baixa)
+3. Clique no botão "Pesquisar" para buscar as informações do Pokémon.
+4. As informações do Pokémon, incluindo nome, número, peso, altura, experiência base e imagem, serão exibidas na tela.
 
-### `npm run eject`
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+---
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Espero que você aproveite o Pokémon API! Se tiver alguma dúvida ou encontrar problemas, sinta-se à vontade para entrar em contato. Divirta-se explorando o mundo dos Pokémon!
